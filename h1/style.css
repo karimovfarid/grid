@@ -1,0 +1,35 @@
+#nav,#slier,#welcome,#news,#works,#footer{
+	background: grey;
+	width: 100%;
+	margin-bottom: 10px;
+}
+#nav{
+	height: 100px;
+}
+#slider{
+	height: 350px;
+}
+#welcome{
+	height: 200px;
+}
+#news{
+	height: 150px;
+}
+#works{
+	height: 250px;
+}
+#footer{
+	height:150px;
+}
+#nav .col12{
+	height: 100px;
+}
+#slider>div{
+	height: 100px;
+}
+#welcome>div{
+height: 150px;
+}
+#news>div{
+	height: 101px;
+}
